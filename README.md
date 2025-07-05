@@ -34,3 +34,5 @@ run this before executing the program:
 Then run your program as usual:  
 `./your_program`  
 A core file will be generated automatically if the program crashes.
+
+![Screenshot showing the program](images/screenshot_2025-07-05_16-26-36.png)
